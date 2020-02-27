@@ -2,7 +2,9 @@
 To run the code :
 
 1.Save the python files, dataset in the same directory and then we can run it on any python 3 intrepeter/virtual environment.
+
 2.The following python libraries must be installed: scikit learn(sklearn),numpy,pandas,warnings,time,mlrose.
+
 3.Open the required python file and run it.
 
 Dataset- tic-tac-toe.data
