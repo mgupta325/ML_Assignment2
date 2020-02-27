@@ -6,12 +6,19 @@ To run the code :
 3.Open the required python file and run it.
 
 Dataset- tic-tac-toe.data
+
 Python files:
 4p.py- randomized optimization experiments on 4 peaks problem
+
 k1.py- randomized optimization experiments on knapsack problem
+
 n_queens.py- randomized optimization experiments on n queens problem
+
 mlrose.py- randomized optimization on neural net by varying iterations
+
 mrose1.py- randomized optimization on neural net by varying parameters of algorithms.
+
 mlrose2.py-final randomized optimization on neural net using tuned parameters. 
+
 
   
