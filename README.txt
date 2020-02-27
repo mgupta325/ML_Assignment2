@@ -14,10 +14,10 @@ Python files: 4p.py- randomized optimization experiments on 4 peaks problem
 
 k1.py- randomized optimization experiments on knapsack problem
 
-n_queens.py- randomized optimization experiments on n queens problem
+cc.py- randomized optimization experiments on continuous peaks problem
 
-mlrose.py- randomized optimization on neural net by varying iterations
+mlrose.py- randomized optimization of neural net weights(tic tac toe dataset) by varying iterations
 
-mrose1.py- randomized optimization on neural net by varying parameters of algorithms.
+mrose1.py- randomized optimization of neural net weights (tic tac toe dataset) by varying parameters of algorithms.
 
-mlrose2.py-final randomized optimization on neural net using tuned parameters.
+mlrose2.py-final randomized optimization of neural net weights(tic tac toe dataset) using tuned parameters.
